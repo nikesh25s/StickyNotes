@@ -1,3 +1,24 @@
+Overview
+A modern Sticky Notes application built using React.js and Material-UI, enabling users to create, edit, and organize digital sticky notes. This project encompasses a set of features to enhance user experience and productivity.
+
+Features
+Color Customization: Personalize your notes with a variety of colors.
+
+Drag-and-Drop Functionality: Easily reposition notes by dragging and dropping them on the canvas.
+
+Note Management: Edit, delete, and search through your notes for efficient organization.
+
+Attachments: Attach files, images, or links to your notes for additional context.
+
+Dark Mode: Toggle between light and dark modes for a personalized interface.
+
+Functionality
+Note Content: Display and edit the content of each note.
+
+
+
+Technologies Used
+React.js
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
